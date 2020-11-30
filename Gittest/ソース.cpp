@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("sinnki");
+	printf("ì’†");
 }
