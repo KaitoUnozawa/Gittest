@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("Hello2");
+	printf("HellovisualstudioGitV‹Kƒuƒ‰ƒ“ƒ`");
 }
