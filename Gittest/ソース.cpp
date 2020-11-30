@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("HellovisualstudioGitV‹Kƒuƒ‰ƒ“ƒ`");
+	printf("sinnki");
 }
