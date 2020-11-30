@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("HellovisualstudioGit新規ブランチ");
+	printf("マスター");
 }
